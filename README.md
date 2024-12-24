@@ -68,8 +68,6 @@ To learn more about NestJS, check out the [official documentation](https://docs.
    cd url-shortener
    ```
 
-````
-
 2. Install dependencies for both client and server:
 
    ```bash
@@ -136,4 +134,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-````

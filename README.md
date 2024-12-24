@@ -1,6 +1,5 @@
 ### `README.md`
 
-````markdown
 <p align="center">
   <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
 </p>
@@ -68,6 +67,7 @@ To learn more about NestJS, check out the [official documentation](https://docs.
    git clone https://github.com/mehdihassanjony/url-shortener.git
    cd url-shortener
    ```
+
 ````
 
 2. Install dependencies for both client and server:
@@ -136,3 +136,4 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+````
